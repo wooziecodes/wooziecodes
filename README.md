@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wooziecodes
-- 👀 I’m interested in wellness, NLP and ML
-- 🌱 I’m currently learning python, creating telegram bots and basic NLP.
-- 💞️ I’m looking to collaborate on anything related to wellnesstech
+- 👀 I’m interested in cyberpsychology and its effects on social networks. 
+- 🌱 I’m currently learning Flutter and reinforcing my front-end dev skills. 
+- 💞️ I’m looking to collaborate on anything related to mental health technology.
 - 📫 How to reach me arifwoozeer@gmail.com
 
 <!---
