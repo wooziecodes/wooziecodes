@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wooziecodes
-- 👀 I’m interested in cyberpsychology and its effects on social networks. 
+- 👀 I’m interested in Affective Computing leveraging technology to better interpret emotions. 
 - 🌱 I’m currently learning React Native and reinforcing my front-end dev skills. 
 - 💞️ I’m looking to collaborate on anything related to mental health technology.
 - 📫 How to reach me arifwoozeer@gmail.com
